@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Newrepo1</finalName>
+		<finalName>newrepo1</finalName>
 		
 		<plugins>
 			<plugin>
